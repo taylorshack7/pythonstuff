@@ -16,10 +16,7 @@ pythonstuff-main/
 ## Projects
 
 ### TechServiceAnalyzer
-Parses technician service data and models it into a normalized SQLite
-database for querying dependencies between services, the incident times
-associated with those services, and the results of different analysis
-types (DFS, BFS, shortest path, etc.).
+Parses technician service data and models it into a normalized SQLite database for querying dependencies between services, the incident times associated with those services, the results of different node transversal analysis types (DFS, BFS, shortest path, Number of Reachable Services, Dependency Levels, Shortest Path) and other analytics (Average Incident Times, Total Incident Times & Highest Risk Service).
 
 - **v1** — Initial working build. Read source data and wrote results to
   the console, proving the parsing and traversal logic end to end.
