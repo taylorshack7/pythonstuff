@@ -1,4 +1,5 @@
-Python projects & challenges I am working on/have completed... 
+## Description 
+- Python projects & challenges I am working on/have completed... 
 
 ## Repo Structure
 
