@@ -31,7 +31,7 @@ Parses technician service data and models it into a normalized SQLite database f
 
 ## Challenges
 
-Short exercises from daily practice.
+Short exercises from FreeCodeCamp for (somewhat) daily practice.
 
 - **BudgetApp** — Expense tracking with category breakdowns
 - **DigitalDetox** — Track user login behavior to qualif if digital detox goal met
